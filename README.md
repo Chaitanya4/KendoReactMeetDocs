@@ -2,6 +2,8 @@
 
 A meeting website that allows you to take voice notes (convert audio into text format) and write text messages and convey them to others.
 
+Kendo React is used for the UI. Hooks are used for the purpose of state management.
+
 Additional Note: Run this website in google chrome to avoid any issue.
 
 Download or clone the repository. Open the terminal.
